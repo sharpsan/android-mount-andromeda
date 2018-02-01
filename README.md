@@ -1,4 +1,4 @@
-# Auto-implement Andromeda
+# Auto-initialize Andromeda
 
 ![ａｓｓｅｍｂｌｅｄ ｂｙ ｍｏａｔｉｓｔ](https://raw.githubusercontent.com/sharpsan/android-mount-andromeda/1500/common/banner_moatist.jpg "banner text")
 
