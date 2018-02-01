@@ -1,9 +1,22 @@
-# Magisk Module Template
+# Auto-implement Andromeda
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+![ａｓｓｅｍｂｌｅｄ ｂｙ ｍｏａｔｉｓｔ](banner_moatist.jpg)
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+**Credit:**
+This Magisk module uses code from `GabMus` that you can find on [this Github repo](https://github.com/GabMus/start_andromeda_locally_root).
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+**Prerequisites:**
+* Android 8+
+* Substratum and Andromeda installed
+* Magisk 15+
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+**Download:**
+[android-mount-andromeda-magisk-v1.zip](http://google.com)
+
+**Installation:**
+Download and flash module zip via Magisk Manager or TWRP/recovery
+
+**Resources:**
+Magisk XDA thread - [XDA thread link](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+Substratum - [Google Play Store link](https://play.google.com/store/apps/details?id=projekt.substratum&hl=en)
+Andromeda - [Google Play Store link](https://play.google.com/store/apps/details?id=projekt.andromeda&hl=en)
