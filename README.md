@@ -1,6 +1,6 @@
 # Auto-implement Andromeda
 
-![ａｓｓｅｍｂｌｅｄ ｂｙ ｍｏａｔｉｓｔ](banner_moatist.jpg)
+![ａｓｓｅｍｂｌｅｄ ｂｙ ｍｏａｔｉｓｔ](https://raw.githubusercontent.com/sharpsan/android-mount-andromeda/1500/common/banner_moatist.jpg "banner text")
 
 **Credit:**
 This Magisk module uses code from `GabMus` that you can find on [this Github repo](https://github.com/GabMus/start_andromeda_locally_root).
@@ -11,7 +11,7 @@ This Magisk module uses code from `GabMus` that you can find on [this Github rep
 * Magisk 15+
 
 **Download:**
-[android-mount-andromeda-magisk-v1.zip](http://google.com)
+[android-mount-andromeda-magisk-v1.zip](https://github.com/sharpsan/android-mount-andromeda/blob/1500/releases/android-mount-andromeda-magisk-v1.zip?raw=true)
 
 **Installation:**
 Download and flash module zip via Magisk Manager or TWRP/recovery
