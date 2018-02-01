@@ -7,21 +7,21 @@
 This Magisk module uses code from `GabMus` that you can find on [this Github repo](https://github.com/GabMus/start_andromeda_locally_root).
 
 
-### Prerequisites:
+## Prerequisites:
 * Android 8+
 * Substratum and Andromeda installed
 * Magisk 15+
 
 
-### Download:
+## Download:
 [android-mount-andromeda-magisk-v1.zip](https://github.com/sharpsan/android-mount-andromeda/blob/1500/releases/android-mount-andromeda-magisk-v1.zip?raw=true)
 
 
-### Installation:
+## Installation:
 Download and flash module zip via Magisk Manager or TWRP/recovery
 
 
-### Resources:
+## Resources:
 
 Magisk XDA thread - [XDA thread link]
 
