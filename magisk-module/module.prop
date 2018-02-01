@@ -1,0 +1,7 @@
+id=amandromeda
+name=Auto-initialize Andromeda
+version=v1
+versionCode=1
+author=moatist
+description=Initialize Andromeda for Substratum on system boot, eliminating the need for a PC.
+minMagisk=1500
