@@ -9,7 +9,7 @@ This Magisk module uses code from `GabMus` that you can find on [this Github rep
 
 
 ## What it does:
-Substratum on Android Oreo allows you to theme your device using a non-root method, which is cleaner and does not contribute to slowing your device down over time.
+Substratum on Android Oreo allows you to theme your device using a non-root method, which is cleaner and does not contribute to slowing down your device over time.
 <br />...the downside is that you would typically be required to run a shell/adb script from a computer to enable Andromeda to work. 
 
 Using this systemless approach you can easily enable/disable the module to enable Andromeda, without the need to plug into a PC.
@@ -17,7 +17,7 @@ Using this systemless approach you can easily enable/disable the module to enabl
 
 
 ## Prerequisites:
-* Android 8+
+* Android 8
 * Substratum and Andromeda installed
 * Magisk 15+
 
